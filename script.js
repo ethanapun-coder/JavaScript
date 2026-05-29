@@ -11,7 +11,7 @@ console.log(businessTitle);
 
 // Variable + console log
 let ownerName = "Jordan";
-console.log(Ethan);
+console.log(ownerName);
 
 // Select button and text
 const button = document.getElementById("changeButton");
